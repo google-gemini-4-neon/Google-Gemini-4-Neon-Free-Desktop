@@ -1,0 +1,11 @@
+{
+  "model": "gemini-4-neon",
+  "context_window": 1000000,
+  "default_output": 65536,
+  "input_per_mtok": 3.0,
+  "cached_input_per_mtok": 0.15,
+  "output_per_mtok": 15.0,
+  "thinking_levels": ["low", "medium", "high", "xhigh"],
+  "aa_coding_agent_index": 58.6,
+  "terminal_bench_4_1": 65.2
+}
